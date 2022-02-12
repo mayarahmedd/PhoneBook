@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1576865709 source:c:\users\lenovo\desktop\projectphonebookfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"phonebook.h"
+
+1576918297 c:\users\lenovo\desktop\projectphonebookfinal\phonebook.h
+
+1576919819 source:c:\users\lenovo\desktop\phonebook 2019\projectphonebookfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"phonebook.h"
+
+1576984213 c:\users\lenovo\desktop\phonebook 2019\projectphonebookfinal\phonebook.h
+
+1576984351 source:d:\tarnima\koko\programming 1\phonebook 2019\projectphonebookfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"phonebook.h"
+
+1577107318 d:\tarnima\koko\programming 1\phonebook 2019\projectphonebookfinal\phonebook.h
+
